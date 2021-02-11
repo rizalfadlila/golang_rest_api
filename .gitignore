@@ -1,0 +1,10 @@
+/.idea
+/vendor
+/docs
+.config.yaml
+refresh.yml
+*.out
+/storage
+/.scannerwork/
+init-mongo.js
+config.yaml
